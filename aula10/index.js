@@ -30,3 +30,23 @@ Precedência:
 * / %
 + - 
 */
+
+/*
+Operador de incremento:
+contador++; -> incremento, soma 1 após executar uma ação
+++contador; -> incremento, soma 1 antes de  executar uma ação
+contador--; -> decremento, subtrai 1 após executar uma ação
+--contador; -> decremento, subtrai 1 antes de  executar uma ação
+*/
+
+/*
+Operadores de atribuição 
+contador += valorDeIncremento; -> para ir incrementando com valores específicos
+contador *= 2;
+contador **= 10;
+*/
+
+/*Converter string em number:
+num1 = parseInt ('5'); -> converte string em int
+num2 = parseFloat (5.2); -> converte string em float
+num = Number('5'); -> converte string em number
