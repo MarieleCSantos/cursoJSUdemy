@@ -13,7 +13,7 @@ const nome = 'Joao';
 const primeiroNumero = 5;
 const segundoNumero = 10;
 
-//Podemos atribui valores de uma variável a outras:
+//Podemos atribuir valores de uma variável a outras:
 const conta = primeiroNumero * segundoNumero; 
 console.log(conta);
 
